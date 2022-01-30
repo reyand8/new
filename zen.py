@@ -9,8 +9,8 @@ from django.http import HttpResponse
 from django.urls import path
 
 
-ROOT_URLCONF=__name__,
-DEBUG=True,
+ROOT_URLCONF=__name__
+DEBUG=True
 SECRET_KEY='secret'
 
 
