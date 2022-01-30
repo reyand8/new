@@ -27,6 +27,7 @@ template = """
 </head>
 <body>
  <h1>{quote}</h1>
+ <h2>Hi</h2>
 </body>
 </html>
 """
